@@ -1,0 +1,118 @@
+Private-Key: (2048 bit, 2 primes)
+modulus:
+    00:a5:4a:8b:22:22:a5:04:74:3f:b4:fa:6a:26:c0:
+    0e:92:37:7b:8c:4b:13:4c:67:f4:77:d1:ca:5a:b2:
+    43:0c:f2:ee:a8:7f:c9:14:f0:0c:f0:d7:f8:48:b7:
+    75:bf:7a:87:79:e4:ec:c4:ba:2c:3f:9d:b6:18:f1:
+    d5:34:99:2a:2d:a7:bb:12:32:0f:b1:d6:de:c6:76:
+    38:e6:30:30:d4:c1:02:46:22:8a:e2:70:53:c6:e3:
+    4b:45:f3:dd:b5:6e:e2:76:39:24:bc:59:f3:de:fe:
+    b9:5d:d1:99:b9:65:98:17:e7:1b:9c:ed:b2:96:06:
+    4a:4a:5b:d2:8b:bd:59:a2:16:28:1b:40:99:18:59:
+    4f:c0:61:0c:57:ae:51:bf:c4:e9:c5:ed:cb:fc:67:
+    4f:3d:85:ff:bf:6e:13:5b:c5:58:74:dd:ee:6f:46:
+    ea:7f:d3:ac:9d:fc:ae:48:29:0c:d6:47:7a:eb:35:
+    98:53:b0:9a:6b:41:fb:44:86:f3:a2:66:3d:dd:e6:
+    df:66:74:6a:e7:c3:1a:d3:02:2e:5b:fb:16:36:eb:
+    32:64:02:5e:d9:8b:80:df:fa:0a:98:9f:4a:82:48:
+    90:60:46:0e:e0:d5:23:cc:29:c5:6d:69:04:24:f4:
+    8d:be:6a:6e:6c:c0:20:b1:37:d4:62:b7:9a:7e:bf:
+    96:ff
+publicExponent: 65537 (0x10001)
+privateExponent:
+    28:18:af:2b:b6:af:c5:26:d6:15:76:f1:ad:38:c5:
+    d0:1e:79:70:0c:fe:3f:78:b0:4b:28:af:27:d5:3a:
+    82:b7:a3:c1:68:4e:45:2f:fe:53:a6:70:6a:63:66:
+    c2:ee:5c:52:eb:7f:ac:31:65:6e:81:39:9d:4f:7c:
+    e2:e7:8c:dd:ca:64:8d:03:6b:df:3e:3a:88:76:41:
+    53:45:b9:72:c2:e7:64:50:18:d4:d9:5e:d9:4e:66:
+    02:30:28:46:4d:01:ce:a0:0a:13:4e:d6:e3:ef:72:
+    d4:19:76:6b:0d:04:1a:38:4b:f0:83:90:e0:e7:e1:
+    b9:ac:10:a5:29:67:c6:f3:a8:a1:76:00:f6:d7:dc:
+    1c:a7:e6:70:e1:c5:e5:17:c5:4a:97:29:d2:5e:2c:
+    ce:f8:cc:8d:1a:95:2d:20:a2:9a:f6:9d:6e:4e:90:
+    e2:37:02:08:0c:45:ae:0f:17:f7:8d:8e:0c:c2:a7:
+    02:bd:b3:c3:a7:c5:11:8d:c3:74:aa:5e:61:6e:36:
+    06:ba:71:71:4c:fb:a4:b2:73:67:0a:5b:12:54:db:
+    49:f3:2a:1a:9a:59:4c:e5:27:ce:98:14:ec:fd:df:
+    93:31:b2:3b:3e:25:f0:67:14:69:18:77:51:23:57:
+    e0:6e:d8:70:3b:ad:e7:26:70:04:94:57:d5:78:bd:
+    11
+prime1:
+    00:e5:19:5b:d7:33:58:22:97:d9:95:b4:72:59:f9:
+    10:5f:cf:56:73:ae:93:b6:54:c1:cd:d4:20:46:45:
+    d5:00:fa:d9:e1:04:31:08:c6:70:36:24:5a:d2:52:
+    cb:e9:b3:18:e7:7a:82:b5:32:d5:6d:e4:3b:df:31:
+    7b:6e:6a:8b:30:a7:4e:a9:fa:c2:b6:a9:69:d1:cc:
+    cb:0e:8c:1a:2e:a1:9c:53:b6:32:db:d6:04:aa:e8:
+    97:40:0d:0c:22:c6:c5:70:91:12:b6:1a:31:f0:ed:
+    b3:66:8a:2e:bd:71:ae:99:f7:e1:f4:5e:4f:5b:5f:
+    9e:f4:d9:32:fb:3c:4e:bd:55
+prime2:
+    00:b8:b3:24:31:ec:55:89:f7:38:fe:5e:d3:a4:72:
+    76:26:ab:20:77:ef:ea:79:f1:04:6b:89:38:71:c9:
+    ce:fb:37:02:56:d4:e1:45:73:91:b4:a5:85:f1:0c:
+    2f:57:44:75:2d:26:ad:fe:e6:2a:a6:04:26:24:6d:
+    2c:9c:76:a8:aa:69:1d:7b:a5:34:8d:2e:c1:2a:14:
+    83:52:07:3e:4c:57:b3:53:06:13:fa:b9:82:f9:04:
+    95:2e:62:bd:83:4e:9c:f9:da:b5:a8:a1:45:f1:ff:
+    a6:4f:af:12:b8:ae:66:4d:5f:d1:99:db:9e:5f:0d:
+    b3:f0:65:79:78:f0:2d:e3:03
+exponent1:
+    04:54:c9:66:b5:22:ca:6c:a2:81:71:0a:e4:66:90:
+    07:af:ac:cb:bd:16:2f:d1:44:64:b6:c8:f1:6b:2a:
+    8e:bd:2f:57:50:b3:f8:9d:7f:cb:96:3e:5d:51:91:
+    67:56:aa:76:dd:db:10:bf:e8:47:0e:94:8f:30:a9:
+    4b:ba:19:ed:8e:8c:2f:2c:7d:77:e4:96:0a:90:5b:
+    9a:67:cd:aa:ea:05:41:93:e5:3c:40:bc:8f:da:9b:
+    d9:6b:25:ba:96:95:6e:fe:5f:23:30:35:97:7f:76:
+    ef:ce:56:f9:df:e7:54:23:da:92:bb:21:b6:f1:84:
+    d8:ce:2e:67:8f:89:51:8d
+exponent2:
+    29:67:df:a1:61:7d:fb:a3:f4:9e:f1:db:38:6e:80:
+    96:42:9e:d0:c4:74:28:4a:23:d7:87:b7:a3:aa:be:
+    40:0b:20:f7:1e:5a:32:1b:aa:7a:78:f1:02:0c:dd:
+    40:0f:14:c5:be:7a:1b:3e:b6:28:e9:9d:33:65:56:
+    2e:ed:5a:fa:78:fe:27:0d:ee:2e:08:61:3d:71:c3:
+    ce:cb:d8:e7:7c:71:b3:17:15:bb:8b:83:15:18:35:
+    e9:64:31:60:12:6b:96:87:b5:59:cc:6d:c5:c6:ae:
+    1e:06:fd:87:71:71:75:bf:19:5a:08:a6:04:61:2a:
+    09:a6:76:08:ea:af:1e:c9
+coefficient:
+    00:b4:bd:3e:ac:a7:d8:64:9f:f2:48:da:3b:ba:85:
+    04:71:fa:8b:33:b4:00:6a:2e:7b:f7:83:c1:01:32:
+    a8:47:1a:ff:f2:b8:ba:5e:e8:20:70:f1:50:e8:5c:
+    eb:28:8f:42:26:ce:ad:ef:ac:01:42:67:f4:41:5f:
+    0e:60:06:57:da:31:f6:c1:3d:4c:98:92:12:a2:ca:
+    7a:a3:72:7c:89:d0:12:30:d7:87:b5:11:a5:2c:08:
+    48:9d:5c:2d:7a:bf:49:e7:94:a8:73:cd:4e:ea:6b:
+    46:e3:21:dd:5a:1e:42:02:6e:44:7c:49:09:32:8b:
+    16:47:c9:90:ff:85:85:10:77
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClSosiIqUEdD+0
++momwA6SN3uMSxNMZ/R30cpaskMM8u6of8kU8Azw1/hIt3W/eod55OzEuiw/nbYY
+8dU0mSotp7sSMg+x1t7GdjjmMDDUwQJGIoricFPG40tF8921buJ2OSS8WfPe/rld
+0Zm5ZZgX5xuc7bKWBkpKW9KLvVmiFigbQJkYWU/AYQxXrlG/xOnF7cv8Z089hf+/
+bhNbxVh03e5vRup/06yd/K5IKQzWR3rrNZhTsJprQftEhvOiZj3d5t9mdGrnwxrT
+Ai5b+xY26zJkAl7Zi4Df+gqYn0qCSJBgRg7g1SPMKcVtaQQk9I2+am5swCCxN9Ri
+t5p+v5b/AgMBAAECggEAKBivK7avxSbWFXbxrTjF0B55cAz+P3iwSyivJ9U6grej
+wWhORS/+U6ZwamNmwu5cUut/rDFlboE5nU984ueM3cpkjQNr3z46iHZBU0W5csLn
+ZFAY1Nle2U5mAjAoRk0BzqAKE07W4+9y1Bl2aw0EGjhL8IOQ4OfhuawQpSlnxvOo
+oXYA9tfcHKfmcOHF5RfFSpcp0l4szvjMjRqVLSCimvadbk6Q4jcCCAxFrg8X942O
+DMKnAr2zw6fFEY3DdKpeYW42BrpxcUz7pLJzZwpbElTbSfMqGppZTOUnzpgU7P3f
+kzGyOz4l8GcUaRh3USNX4G7YcDut5yZwBJRX1Xi9EQKBgQDlGVvXM1gil9mVtHJZ
++RBfz1ZzrpO2VMHN1CBGRdUA+tnhBDEIxnA2JFrSUsvpsxjneoK1MtVt5DvfMXtu
+aoswp06p+sK2qWnRzMsOjBouoZxTtjLb1gSq6JdADQwixsVwkRK2GjHw7bNmii69
+ca6Z9+H0Xk9bX5702TL7PE69VQKBgQC4syQx7FWJ9zj+XtOkcnYmqyB37+p58QRr
+iThxyc77NwJW1OFFc5G0pYXxDC9XRHUtJq3+5iqmBCYkbSycdqiqaR17pTSNLsEq
+FINSBz5MV7NTBhP6uYL5BJUuYr2DTpz52rWooUXx/6ZPrxK4rmZNX9GZ255fDbPw
+ZXl48C3jAwKBgARUyWa1IspsooFxCuRmkAevrMu9Fi/RRGS2yPFrKo69L1dQs/id
+f8uWPl1RkWdWqnbd2xC/6EcOlI8wqUu6Ge2OjC8sfXfklgqQW5pnzarqBUGT5TxA
+vI/am9lrJbqWlW7+XyMwNZd/du/OVvnf51Qj2pK7IbbxhNjOLmePiVGNAoGAKWff
+oWF9+6P0nvHbOG6AlkKe0MR0KEoj14e3o6q+QAsg9x5aMhuqenjxAgzdQA8Uxb56
+Gz62KOmdM2VWLu1a+nj+Jw3uLghhPXHDzsvY53xxsxcVu4uDFRg16WQxYBJrloe1
+WcxtxcauHgb9h3Fxdb8ZWgimBGEqCaZ2COqvHskCgYEAtL0+rKfYZJ/ySNo7uoUE
+cfqLM7QAai5794PBATKoRxr/8ri6XuggcPFQ6FzrKI9CJs6t76wBQmf0QV8OYAZX
+2jH2wT1MmJISosp6o3J8idASMNeHtRGlLAhInVwter9J55Soc81O6mtG4yHdWh5C
+Am5EfEkJMosWR8mQ/4WFEHc=
+-----END PRIVATE KEY-----
